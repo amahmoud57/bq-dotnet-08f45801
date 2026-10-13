@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>Quartz08f45801</AssemblyName>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
