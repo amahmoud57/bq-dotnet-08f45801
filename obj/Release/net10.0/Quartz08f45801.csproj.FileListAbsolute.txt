@@ -1,7 +1,0 @@
-/app/obj/Release/net10.0/rpswa.dswa.cache.json
-/app/obj/Release/net10.0/Quartz08f45801.GeneratedMSBuildEditorConfig.editorconfig
-/app/obj/Release/net10.0/Quartz08f45801.AssemblyInfoInputs.cache
-/app/obj/Release/net10.0/Quartz08f45801.AssemblyInfo.cs
-/app/obj/Release/net10.0/Quartz08f45801.csproj.CoreCompileInputs.cache
-/app/obj/Release/net10.0/Quartz08f45801.MvcApplicationPartsAssemblyInfo.cache
-/app/obj/Release/net10.0/Quartz08f45801.sourcelink.json
